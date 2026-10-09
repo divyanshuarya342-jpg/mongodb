@@ -1,0 +1,8 @@
+[
+  {"emp_code":"EMP0001","name":"Asha Rao","email":"asha@example.com","department":"Engineering","shift_start":"09:30","shift_end":"18:30","joined_on":"2026-01-05","created_at":{"$date":"2026-01-05T04:30:00Z"}},
+  {"emp_code":"EMP0002","name":"Ravi Kumar","email":"ravi@example.com","department":"Engineering","shift_start":"09:30","shift_end":"18:30","joined_on":"2026-01-10","created_at":{"$date":"2026-01-10T04:30:00Z"}},
+  {"emp_code":"EMP0003","name":"Priya Singh","email":"priya@example.com","department":"HR","shift_start":"09:30","shift_end":"18:30","joined_on":"2026-01-03","created_at":{"$date":"2026-01-03T04:30:00Z"}},
+  {"emp_code":"EMP0004","name":"Amit Sharma","email":"amit@example.com","department":"HR","shift_start":"09:00","shift_end":"18:00","joined_on":"2026-02-01","created_at":{"$date":"2026-02-01T04:30:00Z"}},
+  {"emp_code":"EMP0005","name":"Neha Gupta","email":"neha@example.com","department":"Operations","shift_start":"22:00","shift_end":"06:00","joined_on":"2026-01-15","created_at":{"$date":"2026-01-15T04:30:00Z"}},
+  {"emp_code":"EMP0006","name":"Suresh Patel","email":"suresh@example.com","department":"Engineering","shift_start":"09:30","shift_end":"18:30","joined_on":"2026-03-01","created_at":{"$date":"2026-03-01T04:30:00Z"}}
+]
